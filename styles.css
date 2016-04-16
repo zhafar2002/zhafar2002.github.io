@@ -1,0 +1,21 @@
+body{
+    font-family: 'Dancing Script';
+}
+
+
+.purple{
+    color:purple;
+}
+
+
+.container{
+    padding:5px;
+    background:lightgreen;
+    margin:20px;
+    color:crimson;
+}
+
+
+#bluecontainer{
+    background:green;
+}
